@@ -1,2 +1,2 @@
-# stringsjs
+
 Ejercicios strings
